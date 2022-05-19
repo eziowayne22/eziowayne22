@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eziowayne22
+- 👋 Hi, I’m John McGrath and I've been working in the Analytics field for over 4 years
 - 👀 I’m interested in ... Data Science especially with applications to Fantasy Football and other sports
 - 🌱 I’m currently learning ... the R tidyverse in greater depth and freshening up on Python
 - 💞️ I’m looking to collaborate on ... any exciting new projects that come my way!
