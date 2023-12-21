@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... the R tidyverse in greater depth and freshening up on Python
 - 💞️ I’m looking to collaborate on ... any exciting new projects that come my way!
 - 📫 How to reach me ...johnmcgrath302@gmail.com
-- I regularly participate in the Kaggle Big Data Bowl competition https://www.kaggle.com/johnmcgrath22 
+  https://www.kaggle.com/johnmcgrath22 
 
 <!---
 eziowayne22/eziowayne22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
