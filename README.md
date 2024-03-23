@@ -1,5 +1,5 @@
 - 👋 Hi, I’m John McGrath and I've been working in Analytics for over 5 years
-- 👀 I’m interested in Data Enginnering and Data Science especially with applications to Fantasy Football and other sports
+- 👀 I’m interested in Data Engineering and Data Science especially with applications to Fantasy Football and other sports
 - 🌱 I’m currently learning ... the R tidyverse in greater depth and freshening up on Python
 - 💞️ I’m looking to collaborate on ... any exciting new projects that come my way!
 - 📫 How to reach me ...johnmcgrath302@gmail.com
